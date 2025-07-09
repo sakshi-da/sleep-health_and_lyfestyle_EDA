@@ -1,4 +1,5 @@
 # sleep-health_and_lyfestyle_EDA
+datasource: "https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset"
 Dataset overview:
 The sleep health and lifestyle dataset is comprehensive collection of data on sleep patterns, lifestyle factors and cardiovascular health. There are 13 columns in dataset:
 
@@ -60,5 +61,3 @@ Also, the individuals of the 'Obese' & 'Overweight' category are having higher S
 Thank you very much for your interest!
 
 And I would appreciate any comments and recommendations for improvement!
-
-We will start by exploring+ our dataset to understand it and ensure that the data is clean and ready to work on with.
